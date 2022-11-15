@@ -14,9 +14,9 @@ import javax.swing.JFrame;
 * MINIPROYECTO 2
 * PROFESOR: Luis Romo Portilla
 * 
-* INTEGRANTES: Julian David Rendon Cardona <julian.david.rendon@gmail.com> 202177387
-*              Carol Sofia Macarena Rubiano Valderrama
-*              Juan Sebastian Muñoz Rojas
+* INTEGRANTES: Julian David Rendon Cardona <julian.david.rendon@correounivalle.edu.co> 202177387
+*              Carol Sofia Macarena Rubiano Valderrama <carol.rubiano@correounivalle.edu.co> 202181025
+*              Juan Sebastian Muñoz Rojas <juan.munoz.rojas@correounivalle.edu.co> 202177436
 */
 
 public class Miniproyecto_2 {
